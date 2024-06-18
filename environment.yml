@@ -1,0 +1,8 @@
+name: magimix-scraper
+channels:
+  - defaults
+dependencies:
+  - beautifulsoup4
+  - lxml
+  - pandas
+prefix: /home/main/miniconda3/envs/magimix-scraper

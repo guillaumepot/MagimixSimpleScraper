@@ -5,8 +5,15 @@ Simple Magimix recipes scraper from Magimix website.
 Current recipes language(s):
 - French
 
+## Project information
+- **Version**: 0.1.0
+- **Development Stage**: Prod
+- **Author**: Guillaume Pot
+- **Contact Information**: guillaumepot.pro@outlook.com
 
-**Purpose:**
+
+
+## Purpose:
 - Get all recipes, for each recipe :
     - Name
     - Tag
@@ -25,7 +32,7 @@ Current recipes language(s):
 
 
 ## Repo Architecture
-
+```
 ├── .github
 │   └── workflows
 │
@@ -41,8 +48,8 @@ Current recipes language(s):
     │
     └── recipe_url_scraper.py
 
+```
 
-
-## Checklist
+## Roadmap
 - [Done] Get informations for each recipe
 - [Done] Scrap recipes URL

@@ -5,6 +5,12 @@ Simple Magimix recipes scraper from Magimix website.
 Current recipes language(s):
 - French
 
+
+<img src="./media/magimix_app.jpeg" width="350" height="350">
+
+
+
+
 ## Project information
 - **Version**: 0.1.0
 - **Development Stage**: Prod
@@ -42,6 +48,8 @@ Current recipes language(s):
 │
 ├── environment.yml
 │
+├── media
+|
 ├── storage
 │
 └── utils
